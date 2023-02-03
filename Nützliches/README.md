@@ -1,0 +1,1 @@
+Hier sind noch ein paar Klassen die ich geschrieben habe um kleinere Aufgaben effizient zu lösen
